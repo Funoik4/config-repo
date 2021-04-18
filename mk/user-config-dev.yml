@@ -1,6 +1,6 @@
 spring:
   application:
-    name: admin_user
+    name: admin_user2
   #mysql数据库配置
   datasource:
     url: jdbc:mysql://10.0.0.210:3506/mkadmin?useUnicode=true&characterEncoding=utf-8
